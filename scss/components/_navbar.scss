@@ -1,0 +1,23 @@
+header{
+    background-color: #016bffcc;
+    border-bottom-left-radius: 5px;
+}
+#barraHeader {
+    color: white;
+    display: grid;
+    grid-template-columns: repeat(2, auto); 
+    margin: 0px 10px;
+    align-items: center;
+    font-size: 18px;
+}
+
+#barraNavegacion{
+ display: flex;
+ justify-content: space-between;
+}
+
+#logo {
+    height: 75px;
+    margin-top: 5px;
+    border-radius: 20px;
+}
